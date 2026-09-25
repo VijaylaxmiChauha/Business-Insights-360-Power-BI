@@ -22,6 +22,6 @@ Sales View — Sales performance, customer/product analysis and trends
 Marketing View — Marketing performance and business metrics
 Supply Chain View — Operational and supply-chain performance analysis
 Executive View — High-level KPIs and consolidated business performance
-🎯 Key Skills Demonstrated
 
+🎯 Key Skills Demonstrated
 SQL | Power BI | DAX | Power Query | Data Modeling | Data Cleaning | Data Transformation | KPI Development | Business Intelligence | Data Visualization | Business Analysis
